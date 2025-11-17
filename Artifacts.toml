@@ -1,0 +1,52 @@
+[[qiskit_ibm_runtime]]
+arch = "aarch64"
+git-tree-sha1 = "6c244ca8a5074abc8541cca96f66fb530967dcff"
+os = "macos"
+
+    [[qiskit_ibm_runtime.download]]
+    sha256 = "f73f7c06094c1c33141f04f569858c2e90115c6cf158027f39f9cd5b768957a3"
+    url = "https://github.com/JuliaBinaryWrappers/qiskit_ibm_runtime_jll.jl/releases/download/qiskit_ibm_runtime-v0.38.0+0/qiskit_ibm_runtime.v0.38.0.aarch64-apple-darwin.tar.gz"
+[[qiskit_ibm_runtime]]
+arch = "aarch64"
+git-tree-sha1 = "52c6b4d1acf29e9e6cf7d4b25cf4be27a4ada59f"
+libc = "glibc"
+os = "linux"
+
+    [[qiskit_ibm_runtime.download]]
+    sha256 = "ce13fd5b35f0713650b0dd8abb5ddbda620b23c6a3424d6fce6b6ca5549ab4d9"
+    url = "https://github.com/JuliaBinaryWrappers/qiskit_ibm_runtime_jll.jl/releases/download/qiskit_ibm_runtime-v0.38.0+0/qiskit_ibm_runtime.v0.38.0.aarch64-linux-gnu.tar.gz"
+[[qiskit_ibm_runtime]]
+arch = "aarch64"
+git-tree-sha1 = "c8dbd6db06dd1e04f8aef0cdaa3527ccc30d46f3"
+libc = "musl"
+os = "linux"
+
+    [[qiskit_ibm_runtime.download]]
+    sha256 = "d33ae7eb0d196bfb484863e3a07c58119bfc5ce5015f0cc9edd8252714ecb561"
+    url = "https://github.com/JuliaBinaryWrappers/qiskit_ibm_runtime_jll.jl/releases/download/qiskit_ibm_runtime-v0.38.0+0/qiskit_ibm_runtime.v0.38.0.aarch64-linux-musl.tar.gz"
+[[qiskit_ibm_runtime]]
+arch = "x86_64"
+git-tree-sha1 = "20122a4051de17dde3b74725bb685dfce87b0ed2"
+os = "macos"
+
+    [[qiskit_ibm_runtime.download]]
+    sha256 = "765ee94d1994404f806d0eba78c67612c1a77f51e0aef8b2153e23e2a34bc64d"
+    url = "https://github.com/JuliaBinaryWrappers/qiskit_ibm_runtime_jll.jl/releases/download/qiskit_ibm_runtime-v0.38.0+0/qiskit_ibm_runtime.v0.38.0.x86_64-apple-darwin.tar.gz"
+[[qiskit_ibm_runtime]]
+arch = "x86_64"
+git-tree-sha1 = "76d9ce3f259a0d2ceb8e6d353ce79739cacd2a9f"
+libc = "glibc"
+os = "linux"
+
+    [[qiskit_ibm_runtime.download]]
+    sha256 = "4104e49331abc93a074a3988ab1a4fb7d56c709a218d8da93fc9a2f49bbf99a4"
+    url = "https://github.com/JuliaBinaryWrappers/qiskit_ibm_runtime_jll.jl/releases/download/qiskit_ibm_runtime-v0.38.0+0/qiskit_ibm_runtime.v0.38.0.x86_64-linux-gnu.tar.gz"
+[[qiskit_ibm_runtime]]
+arch = "x86_64"
+git-tree-sha1 = "fe93279cb1475d5797f041fae0c3f537b44cd9dc"
+libc = "musl"
+os = "linux"
+
+    [[qiskit_ibm_runtime.download]]
+    sha256 = "3b75da8ac41caf26c8f7b7fb53d9d31a8c0f71178b2fd713d5c78d6675c6a025"
+    url = "https://github.com/JuliaBinaryWrappers/qiskit_ibm_runtime_jll.jl/releases/download/qiskit_ibm_runtime-v0.38.0+0/qiskit_ibm_runtime.v0.38.0.x86_64-linux-musl.tar.gz"
