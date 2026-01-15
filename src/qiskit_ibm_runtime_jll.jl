@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("qiskit_ibm_runtime")
-JLLWrappers.@generate_main_file("qiskit_ibm_runtime", UUID("dfd00f80-54b8-5b12-a44d-54bafd549557"))
+JLLWrappers.@generate_main_file("qiskit_ibm_runtime", Base.UUID("dfd00f80-54b8-5b12-a44d-54bafd549557"))
 end  # module qiskit_ibm_runtime_jll
